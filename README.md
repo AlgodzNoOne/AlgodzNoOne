@@ -1,6 +1,6 @@
 # 💫 About Me:
 IM Um Student 
-
+Algods know the NoOne
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aletabaranza23@gmail.com) 
